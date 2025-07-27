@@ -1,0 +1,6 @@
+{
+  "name": "SEPI Seminar Evaluation System",
+  "description": "An interactive web application for professors to evaluate master's degree students' seminar presentations in real-time, with features for generating reports and AI-powered feedback.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
